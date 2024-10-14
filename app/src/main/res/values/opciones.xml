@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="combo_animales" >
+        <item>Ternero</item>
+        <item>Borrego</item>
+        <item>Porcino</item>
+        <item>Caballo</item>
+        <item>Pollo</item>
+    </string-array>
+</resources>
